@@ -1,28 +1,28 @@
-kinasean.org
-utahaazk.org
-lefchurch.org
-copchurch.org
-lifechurchwi.org
-pbronline.org
-wesleycharlotte.foundation
-hoysalud.net
-shrikalyanika.org
-troop617.org
-guilinhotels.org
-givingisgold.org
-childrens-needs.info
-familyvalue.net
-wishlink.net
-betterlives.info
-itsmart.info
-mathcord.de.com
-mathgames.de.com
-unblockedmathgames.com
-colute.net
-chesstube.eu.com
-hateroll.com
-weakcatxp.github.io
-gametreexp.github.io
-mathcordxp.github.io
-jman1593.github.io
-mathcord.com
+0.0.0.0 kinasean.org
+0.0.0.0 utahaazk.org
+0.0.0.0 lefchurch.org
+0.0.0.0 copchurch.org
+0.0.0.0 lifechurchwi.org
+0.0.0.0 pbronline.org
+0.0.0.0 wesleycharlotte.foundation
+0.0.0.0 hoysalud.net
+0.0.0.0 shrikalyanika.org
+0.0.0.0 troop617.org
+0.0.0.0 guilinhotels.org
+0.0.0.0 givingisgold.org
+0.0.0.0 childrens-needs.info
+0.0.0.0 familyvalue.net
+0.0.0.0 wishlink.net
+0.0.0.0 betterlives.info
+0.0.0.0 itsmart.info
+0.0.0.0 mathcord.de.com
+0.0.0.0 mathgames.de.com
+0.0.0.0 unblockedmathgames.com
+0.0.0.0 colute.net
+0.0.0.0 chesstube.eu.com
+0.0.0.0 hateroll.com
+0.0.0.0 weakcatxp.github.io
+0.0.0.0 gametreexp.github.io
+0.0.0.0 mathcordxp.github.io
+0.0.0.0 jman1593.github.io
+0.0.0.0 mathcord.com
