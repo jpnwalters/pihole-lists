@@ -26,3 +26,6 @@
 0.0.0.0 mathcordxp.github.io
 0.0.0.0 jman1593.github.io
 0.0.0.0 mathcord.com
+0.0.0.0 strongdog.com
+0.0.0.0 strongdog.de.com
+0.0.0.0 strongdog-1.vercel.app
