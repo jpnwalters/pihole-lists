@@ -28,7 +28,7 @@
 0.0.0.0 mathcord.com
 0.0.0.0 strongdog.com
 0.0.0.0 strongdog.de.com
-0.0.0.0 cbc.ca
+0.0.0.0 www.cbc.ca
 0.0.0.0 poki.com
 0.0.0.0 scratch.mit.edu
 0.0.0.0 strongdog-1.vercel.app
