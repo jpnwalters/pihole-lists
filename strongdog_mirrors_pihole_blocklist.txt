@@ -32,3 +32,14 @@
 0.0.0.0 poki.com
 0.0.0.0 scratch.mit.edu
 0.0.0.0 strongdog-1.vercel.app
+0.0.0.0 fivenightsatepsteins.org
+0.0.0.0 fivenightsatepsteins.com
+0.0.0.0 kbhgames.com
+0.0.0.0 1games.io
+0.0.0.0 topgames.gg
+0.0.0.0 nowgames.io
+0.0.0.0 granny-games.com
+0.0.0.0 thatsnot-myneighbor.io
+0.0.0.0 veckio.com
+0.0.0.0 genizymath.github.io
+0.0.0.0 gn-math.dev
