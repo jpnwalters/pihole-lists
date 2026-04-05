@@ -45,3 +45,4 @@
 0.0.0.0 gn-math.dev
 0.0.0.0 unblocked-games.s3.amazonaws.com
 0.0.0.0 www.onlinegames.io
+0.0.0.0 crazygames.com
