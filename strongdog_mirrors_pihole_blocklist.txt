@@ -178,6 +178,7 @@
 0.0.0.0 kour.io
 0.0.0.0 voxiom.io
 0.0.0.0 1v1.lol
+0.0.0.0 geometryvibes.io
 
 # Selected additional gaming portals and download services
 0.0.0.0 store.steampowered.com
